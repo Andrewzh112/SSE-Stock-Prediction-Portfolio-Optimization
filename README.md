@@ -4,7 +4,7 @@ SSE stock prediction (classification) using LSTM and portfolio optimization usin
 
 ### Data
 
-The dataset was provided by USC DSO 530 Professor, it consisted one year of 50 stocks data along with precalculated technical indicators.
+The dataset was provided by USC DSO 530 Professor, it consisted two years of 50 stocks data along with precalculated technical indicators.
 
 ### Dependencies
 
